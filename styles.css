@@ -1,0 +1,15 @@
+.card-icons img {
+    height: 30px;
+    margin-right: 8px;
+  }
+
+  .form-section {
+    max-width: 900px;
+    margin: 40px auto;
+  }
+
+  .alert-custom {
+    background-color: #f8d7da;
+    color: #842029;
+    border: 1px solid #f5c2c7;
+  }
